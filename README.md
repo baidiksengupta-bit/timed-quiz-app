@@ -6,7 +6,7 @@ An interactive, responsive Computer Science quiz application built with vanilla 
 
 ## 🎮 Live Preview
 
-Check out the live demo here: **[Play the Quiz](https://github.com/baidiksengupta-bit/timed-quiz-app/)**  
+Check out the live demo here: **[Play the Quiz]( https://baidiksengupta-bit.github.io/timed-quiz-app/)**  
 
 ---
 
